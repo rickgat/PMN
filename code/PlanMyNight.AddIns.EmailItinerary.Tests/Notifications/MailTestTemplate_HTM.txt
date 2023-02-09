@@ -1,0 +1,15 @@
+﻿##isHtml##: true
+
+##subject##:PlanMyNight - Test Subject
+
+##template-start##
+<html>
+    <body>
+        <strong>Hello {{userName}}</strong>
+        <p>This is a test message</p>
+        <p>{{field1}}</p>
+        <p>{{field2}}</p>
+        <p>{{field3}}</p>
+    </body>
+</html>
+##template-end##

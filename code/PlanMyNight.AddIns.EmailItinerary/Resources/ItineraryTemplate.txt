@@ -1,0 +1,12 @@
+##isHtml##: false
+
+##subject##:PlanMyNight - Itinerary
+
+##template-start##
+PlanMyNight
+{{name}}
+{{description}}
+------
+
+{{list}}
+##template-end##
